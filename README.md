@@ -6,7 +6,9 @@ A good price prediction can help sellers set fair prices and buyers know if they
 
 ## Dataset Overview
 •	Records: 301
+
 •	Variables: 9 (including target variable: Selling_Price)
+
 •	Purpose: To analyze how different factors influence the resale value of a vehicle
 
 ## Table of Contents
